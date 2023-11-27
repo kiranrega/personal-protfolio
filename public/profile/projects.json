@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "image": "images/projects/portfolio-poster.png",
+      "title": "Dev Portfolio",
+      "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/mayankagarwal09/dev-portfolio"
+        },
+        {
+          "text": "Live",
+          "href": "https://mayankagarwal.me"
+        }
+      ],
+      "tags": ["React", "Portfolio", "JavaScript"]
+    },
+    {
+        "image": "images/projects/rock-paper-scissors.png",
+        "title": "Rock Paper Scissors",
+        "bodyText": "- Create a visually appealing and interactive user interface for a smooth and engaging Rock, Paper, Scissors game experience using React JS.",
+        "links": [
+          {
+            "text": "GitHub",
+            "href": "https://github.com/kiranrega/Rock-Paper-Scissors"
+          },
+          {
+            "text": "Live",
+            "href": "rockpaperk.ccbp.tech"
+          }
+        ],
+        "tags": ["React", "Personal", "JavaScript"]
+      },
+      {
+        "image": "images/projects/tasty-kitchens.png",
+        "title": "Tasty Kitchens",
+        "bodyText": "- Develop a user-friendly app interface for easy navigation and seamless order placement. \n - Implement a real-time order tracking system to keep users informed about their food delivery status.",
+        "links": [
+          {
+            "text": "GitHub",
+            "href": "https://github.com/kiranrega/TastyKitchens"
+          },
+          {
+            "text": "Live",
+            "href": "tastykiran.ccbp.tech"
+          }
+        ],
+        "tags": ["React", "Routing", "JavaScript"]
+      }
+  ]
+}

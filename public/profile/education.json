@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Jun 2013 - Jun 2016",
+            "cardTitle": "M.Tech, Mineral Processing",
+            "cardSubtitle":"VSK University, Bellary",
+            "cardDetailedText": "CGPA - 6.9",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "June 2010 - Apr 2013",
+            "cardTitle": "B.Sc, MGM",
+            "cardSubtitle":"SDS A College, Garividi, Vizianagaram",
+            "cardDetailedText": "Marks - 60%"
+        }
+    ]
+}

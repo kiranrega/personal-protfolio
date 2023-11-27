@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://linkedin.com/in/kiranrega"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/kiranrega"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:kirankumar.rega@gmail.com"
+        }
+    ]
+}
